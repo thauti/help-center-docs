@@ -1,22 +1,22 @@
 +++
 title = "Community Guidelines"
 +++
-# Community Guidelines
+# Règles Communautaire
 
-The Solus Project enforces a set of community guidelines to maintain respect and professionalism, as well as a family-friendly environment.
+Le Projet Solus maintient une liste de règles afin de garantir un environnement respectueux, professionnel et amical.
 
-## Forums/IRC/General Guidelines
+## Forums/IRC/Règles générales
 
-The following guidelines apply to the community as a whole and extends to venues such as forums, IRC, and social media.
+Les règles ci-dessous s'appliquent à la communeauté dans son ensemble et par extension aux forums, IRC, et aux réseaux sociaux.
 
-- No spamming or flooding.
-- Observe topic guidance (off-topic channels/sub-forums where and when appropriate).
-- The linking of illegal, pornographic, and/or offensive media is not permitted.
-- No personal/direct attacks - keep it family friendly and respectful. Support needs to be open to all.
-- No advertising - this includes the continual repetition of other FOSS projects too whilst on our support mediums (including G+ community) - it is harmful to the project and never conducive to support.
-- The usage of bots unless explicitly permitted by the Solus Project is **strictly forbidden**.
+- Pas de spams ou de flood.
+- Respecter les directives des sujets (channels/sous-forums hors sujet là et où il le faut).
+- Les liens vers du contenu illégal, pornographique, et/ou offensant est interdit.
+- Pas d'attques personnelles/directes - restez courtois et amical. Le support doit être ouvert à tous.
+- Pas de pub - cela inclut les autres projets libres sur nos supports d'aide (Google+ inclus) - c'est nocif pour notre projet et ne permet pas une aide constructive.
+- L'utilisation de bots sauf autorisation explicite de Solus Project est **formellement interdite**.
 
-## Team Guidelines
-
-The team will strive to provide a friendly and open atmosphere, to enable community support. If community members are found to be violating the guidelines, Solus team members reserve the right 
-to **either ban** or **terminate access** to services. In all situations but the most extreme, prior warning will be given to the individual concerned, as an opportunity to correct their behaviour.
+## Sanctions
+ 
+L'équipe s'efforce de proposer une atmosphère amicale pour aider sa communeauté. Si un membre de la communeauté ne respecte pas les règles, l'équipe Solus se réserve le droit de 
+ **bannir** or **suspendre l'accès** aux services. Dans toutes les situations même les plus compliqués, un premier avertissement sera donné, afin de donner une seconde chance.

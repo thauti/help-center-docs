@@ -1,8 +1,7 @@
 +++
 title = "Browsing the web"
 +++
-# Browsing the web
+# Naviguer sur le web
 
-Solus comes pre-installed with Firefox, a secure and trustworthy web browser provided by the non-profit organization [Mozilla](https://www.mozilla.org/en-US/).
-
+Firefox est pré-installé dans Solus, un navigateur sûr et sécurisé maintenu pour une organisation à but non-lucratif [Mozilla](https://www.mozilla.org/fr-FR/).
 {{< altimg "firefox.jpg" "help-center/common-tasks/browsing-the-web/" >}}

@@ -1,30 +1,30 @@
 +++
 title = "Watching Videos"
 +++
-# Watching Videos
+# Regarder des vidéos
 
 Solus comes pre-installed with everything you need to watch your favorite movies, TV shows, DVDs, and Blu-rays.
+Solus est livré avec tout ce dont vous avez besoin pour regarder vos films, vos émissions TV, DVD et Blu-rays préférés.
 
 ## Budgie
 
-Budgie includes [GNOME MPV](https://gnome-mpv.github.io/) - a GTK+ frontend for [mpv](https://mpv.io/).
+Budgie inclut [GNOME MPV](https://gnome-mpv.github.io/) - une interface GTK+ pour [mpv](https://mpv.io/).
 
-You can open GNOME MPV by clicking its icon in the top panel or by opening the Budgie Menu and looking under "Sound & Video".
+Vous pouvez ouvrir GNOME MPV en cliquant sur son icône ou en ouvrant le Menu Budgie et en allant dans "Son & Vidéo".
 
 {{< altimg "mpv.jpg" "help-center/common-tasks/watching-videos/" >}}
 
 ## GNOME
 
-GNOME includes [GNOME MPV](https://gnome-mpv.github.io/) - a GTK+ frontend for [mpv](https://mpv.io/).
+GNOME inclut [GNOME MPV](https://gnome-mpv.github.io/) - une interface GTK+ pour [mpv](https://mpv.io/).
 
-You can open GNOME MPV by clicking its icon in the dock or by finding and clicking on it in the Applications Overlay.
+Vous pouvez ouvrir GNOME MPV en cliquant sur son icône dans le dock ou en le cherchant et en cliquant sur son icône dans l'overlay Applications.
 
 {{< altimg "mpv.jpg" "help-center/common-tasks/watching-videos/" >}}
 
 ## MATE
 
-MATE includes [VLC](https://www.videolan.org/vlc/) - an open source cross-platform multimedia player written by the VideoLAN project.
+MATE inclut [VLC](https://www.videolan.org/vlc/) - un lecteur multimédia cross-plateforme et open source maintenu par le projet VideoLAN.
 
-You can open VLC by opening the Brisk Menu and looking under "Sound & Video".
-
+Vous pouvez ouvrir VLC en ouvrant le Menu Brisk and en cherchant dans "Son et Vidéo".
 {{< altimg "vlc.jpg" "help-center/common-tasks/watching-videos/" >}}

@@ -1,8 +1,8 @@
 +++
 title = "Managing your files"
 +++
-# Managing your files
+# Gérer vos fichiers
 
-Solus provides software that enables you to store, organize, and view your files (such as documents, music, pictures, and videos).
+Solus propose des logiciels vous permettant de stocker, organiser et d'utiliser vos fichiers (comme vos documents, votre musique, vos images, et vos vidéos).
 
 {{< altimg "nautilus.jpg" "help-center/common-tasks/managing-your-files/" >}}

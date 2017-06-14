@@ -1,12 +1,12 @@
 +++
 title = "Budgie Shortcuts"
 +++
-# Budgie Shortcuts
+# Raccourcis Budgie
 
-Budgie provides multiple shortcuts to make navigating around Budgie faster and easier.
+Budgie propose plusieurs raccourcis afin de rendre la navigation plus simple et rapide.
 
-Keyboard Shortcut | Action
+Raccourci clavier | Action
 ----- | -----
-Super (*also Super + S*) | Open Budgie Menu
-Super + A | Open Applets section of Raven
-Super+ N | Open Notifications section of Raven
+Super (*également Super + S*) | Ouvre Menu Budgie
+Super + A | Ouvre la section Applets de Raven
+Super+ N | Ouvre la section Notifications de Raven
